@@ -9,5 +9,5 @@ I'm a **Principal Product Manager** and **Technical Artist** working on [Substan
 - 🎮 **Ombre** is my custom [game engine project](https://www.froyok.fr/ombre/).
 
 <p align="center">
-<a href="https://www.froyok.fr/blog/2024-11-ombre-dev-blog-2/"><img src="https://www.froyok.fr/blog/2024-11-ombre-dev-blog-2/resources/th_beauty_1.jpg"/></a><br>Screenshot of my game engine <strong>Ombre</strong>.
+<a href="https://www.froyok.fr/blog/2024-11-ombre-dev-blog-2/"><img src="https://www.froyok.fr/blog/2023-12-ombre-dev-blog-1/resources/2023-11/th_2023-11-04__23-36-45.jpg"/></a><br>Screenshot of my game engine <strong>Ombre</strong>.
 </p>
